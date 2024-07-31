@@ -82199,7 +82199,7 @@ j=t.z
 l=A.aEN(A.aB(["Content-Type","application/json"],o,j))
 l.a="POST"
 s=2
-return A.T(p.H4(0,"https://supply-backend.13436916872.workers.dev/",null,k,null,null,l,null,j),$async$$0)
+return A.T(p.H4(0,"https://flask-629w-116947-7-1317488225.sh.run.tcloudbase.com/api/info",null,k,null,null,l,null,j),$async$$0)
 case 2:return A.N(null,r)}})
 return A.O($async$$0,r)},
 $S:34}
